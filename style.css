@@ -1,0 +1,45 @@
+body{
+text-align: center;
+background:linear-gradient(#d8ffd6 0%, #195516 100%);
+}
+p{
+color: #72e76a;    
+}
+h3{
+color: #b3ffad;
+}
+h1{
+color: #29fe1a;
+font-size: 100px;
+margin-top: 100px;
+}
+.DREAM{
+    z-index: 10;
+    float: left;
+    font-family: 'Peralta', cursive;
+    font-size: larger;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.MENU{
+    position: absolute;
+    list-style: none;
+    cursor: pointer;
+    position: fixed;
+    background-color: #9affdd;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+.DREAM:hover{
+    color: #115c79;
+    background-color: #9ee4ff;
+}
+img{
+    width: 840px;
+}
+h2{
+    color:rgb(230, 255, 189) ;
+}
